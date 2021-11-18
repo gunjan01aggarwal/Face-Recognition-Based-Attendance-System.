@@ -9,7 +9,7 @@ There are some traditional methods of recording attendance such as ->
   
   
      
-![Desktop/Picture.png]
+![Flow Chart](C:\Users\dell user\Desktop\Picture.png)
 
 
 
