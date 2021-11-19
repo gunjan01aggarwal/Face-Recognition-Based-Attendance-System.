@@ -12,13 +12,13 @@ With the Fingerprint Readers is that:
     - Can't use it if the person doesn't have fingers .
 ## Libraries:
 Numpy-
-      pip install numpy
+      pip install numpy,
 Matplotlib-
-      pip install Matplotlib
+      pip install Matplotlib,
 OpenCV-
-      pip install opencv-python
+      pip install opencv-python,
 Face Recognition-
-     pip install face-recognition
+     pip install face-recognition,
 Pillow Library-
      pip install Pillow
                     
