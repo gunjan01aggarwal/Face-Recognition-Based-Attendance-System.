@@ -24,8 +24,7 @@ In this project work we develop an end-to-end attendance management system that 
                   
                   
                   
-                  |S.NO |Success|Failure|
-                  |-----|-------|-------|
+                
                   
 
 ![Flow Chart](C:\Users\dell user\Desktop\Picture.jpg)
