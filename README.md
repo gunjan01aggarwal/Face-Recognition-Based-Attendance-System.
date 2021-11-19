@@ -1,12 +1,32 @@
-# Face-Recognition-Based-Attendance-System.
-Generally, recording the attendance of the employee or student is one of the key process in any organisation.
-There are some traditional methods of recording attendance such as ->
-✔In schools and colleges,attendance is taken by teachers manually at the beginning and ending of the class.
-✔ Employees signing an attendance register when they report for duty.In some organisations,the attendance signing is done twice a day,once in the morning and then after the         leaving of the organisation.
-✔ Supervisor physically verifies employees and mark the attendance.
-✔Fingerprint Readers are used for recording attendance.
-In this project work we develop an end-to-end attendance management system that uses Face Recognition.
-  
+FACE RECOGNITION BASED ATTENDANCE SYSTEM.
+
+Generally, recording the attendance of the employee or student is one of the key process in any organisation. There are some traditional methods of recording attendance such as -> ✔In schools and colleges,attendance is taken by teachers manually at the beginning and ending of the class. ✔ Employees signing an attendance register when they report for duty.In some organisations,the attendance signing is done twice a day,once in the morning and then after the leaving of the organisation. ✔ Supervisor physically verifies employees and mark the attendance. ✔Fingerprint Readers are used for recording attendance. 
+
+The problem:
+
+ With the manually taking attendance is that it requires some time to take and also the manual process will have chances to make mistakes in most of the cases.
+
+With the Fingerprint Readers is that:
+    - Not suitable with wet hands.
+    - Germs Transmit.
+    - Can't use it if the person doesn't have fingers .
+## Screenshots
+
+![Flow Chart] (https://drive.google.com/file/d/1dz1GwIl6QHOJ8ISiBm4u0b__4IJSQDn6/view?usp=sharing)
+## Libraries:
+Numpy-
+      pip install numpy
+Matplotlib-
+      pip install Matplotlib
+OpenCV-
+      pip install opencv-python
+Face Recognition-
+     pip install face-Recognition
+Pillow Library-
+     pip install Pillow
+                    
+## Module:
+
 1.REFERENCE DATABASE:
                  When Employees are recruited and join duty as a new employee,the company records the following and store them in reference  database.
                    Name of the Employee(First Name, Last Name),Gender,Age,Qualifications,Address,Experience,Photo and so on .
@@ -21,14 +41,3 @@ In this project work we develop an end-to-end attendance management system that 
                  2. Audio: Announce the name of the employee and say : Attendance recorded Successfully. If the Face Cannot be recognized and employ identified,
                   announce "Unable to Recognize Face.
                   
-                  
-                  
-                  
-                
-                  
-
-![Flow Chart](C:\Users\dell user\Desktop\Picture.jpg)
-
-
-
-    
