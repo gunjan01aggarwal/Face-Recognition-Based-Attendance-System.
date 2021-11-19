@@ -5,7 +5,7 @@ There are some traditional methods of recording attendance such as ->
 ✔ Employees signing an attendance register when they report for duty.In some organisations,the attendance signing is done twice a day,once in the morning and then after the         leaving of the organisation.
 ✔ Supervisor physically verifies employees and mark the attendance.
 ✔Fingerprint Readers are used for recording attendance.
- In this project work we develop an end-to-end attendance management system that uses Face Recognition.
+In this project work we develop an end-to-end attendance management system that uses Face Recognition.
   
   
      
